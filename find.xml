@@ -7,8 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*test.rb" />
     <recentFileMasks>
-      <mask>*.l</mask>
       <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
@@ -16,11 +16,6 @@
       <mask>*.htl</mask>
       <mask>*h</mask>
       <mask>*.ht</mask>
-      <mask>*te</mask>
-      <mask>*test</mask>
-      <mask>*test.</mask>
-      <mask>*test.r</mask>
-      <mask>*test.rb</mask>
       <mask>*.t</mask>
       <mask>*.ts</mask>
       <mask>*.scc</mask>
@@ -38,6 +33,12 @@
       <mask>*Spec.</mask>
       <mask>*Spec.t</mask>
       <mask>*Spec.ts</mask>
+      <mask>*t</mask>
+      <mask>*te</mask>
+      <mask>*test</mask>
+      <mask>*test.</mask>
+      <mask>*test.r</mask>
+      <mask>*test.rb</mask>
     </recentFileMasks>
   </component>
 </application>
