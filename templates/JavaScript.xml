@@ -1,0 +1,28 @@
+<templateSet group="JavaScript">
+  <template name="describe" value="describe(&quot;$END$&quot;, () =&gt; {&#10;});" description="sets up describe" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="it" value="it(&quot;$END$&quot;, () =&gt; {&#10;});" description="sets up it for testing" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="pointy" value=", () =&gt; {&#10;  $END$&#10;}" description="sets up a pointy function" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="then" value=".then(() =&gt; {&#10;  $END$&#10;});" description="sets up a then" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="console.log" value="console.log($END$);" description="console.log" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
