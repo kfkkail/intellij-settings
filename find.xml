@@ -36,8 +36,8 @@
       <mask>*.</mask>
       <mask>*ht</mask>
       <mask>*html</mask>
-      <mask>*.html</mask>
       <mask>*.scss</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
