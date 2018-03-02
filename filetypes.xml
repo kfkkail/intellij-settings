@@ -1,10 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="kes" type="PLAIN_TEXT" />
-      <mapping pattern=".keep" type="PLAIN_TEXT" />
-      <mapping pattern="sd" type="PLAIN_TEXT" />
       <mapping pattern="asdf" type="PLAIN_TEXT" />
+      <mapping pattern="sd" type="PLAIN_TEXT" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping pattern="basic_residential_hinge.rb" type="PLAIN_TEXT" />
+      <mapping pattern="kes" type="PLAIN_TEXT" />
       <mapping ext="hprof" type="PLAIN_TEXT" />
       <mapping pattern="StartFromFilter" type="TypeScript" />
     </extensionMap>
