@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Spec.ts" />
     <recentFileMasks>
       <mask>*.css</mask>
       <mask>*.htlo</mask>
@@ -24,7 +25,6 @@
       <mask>*Spec</mask>
       <mask>*Spec.</mask>
       <mask>*Spec.t</mask>
-      <mask>*Spec.ts</mask>
       <mask>*t</mask>
       <mask>*te</mask>
       <mask>*test</mask>
@@ -38,6 +38,7 @@
       <mask>*html</mask>
       <mask>*.scss</mask>
       <mask>*.html</mask>
+      <mask>*Spec.ts</mask>
     </recentFileMasks>
   </component>
 </application>
