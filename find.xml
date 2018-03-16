@@ -25,7 +25,6 @@
       <mask>*test</mask>
       <mask>*test.</mask>
       <mask>*test.r</mask>
-      <mask>*test.rb</mask>
       <mask>*</mask>
       <mask>*.t</mask>
       <mask>*.</mask>
@@ -36,6 +35,7 @@
       <mask>*Spec.ts</mask>
       <mask>*.json</mask>
       <mask>*controller.rb</mask>
+      <mask>*test.rb</mask>
     </recentFileMasks>
   </component>
 </application>
