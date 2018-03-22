@@ -31,11 +31,11 @@
       <mask>*ht</mask>
       <mask>*html</mask>
       <mask>*.scss</mask>
-      <mask>*.html</mask>
       <mask>*Spec.ts</mask>
       <mask>*.json</mask>
       <mask>*controller.rb</mask>
       <mask>*test.rb</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
