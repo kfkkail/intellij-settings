@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Spec.ts" />
     <recentFileMasks>
       <mask>*.scc</mask>
       <mask>*.h</mask>
@@ -28,7 +29,6 @@
       <mask>*.</mask>
       <mask>*ht</mask>
       <mask>*html</mask>
-      <mask>*Spec.ts</mask>
       <mask>*controller.rb</mask>
       <mask>*.json.jbuilder</mask>
       <mask>*.jbuilder</mask>
@@ -38,6 +38,7 @@
       <mask>*.json</mask>
       <mask>*.rb</mask>
       <mask>*.html</mask>
+      <mask>*Spec.ts</mask>
     </recentFileMasks>
   </component>
 </application>
