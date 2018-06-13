@@ -7,38 +7,5 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Spec.ts" />
-    <recentFileMasks>
-      <mask>*.h</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*S</mask>
-      <mask>*Spe</mask>
-      <mask>*Spec</mask>
-      <mask>*Spec.</mask>
-      <mask>*Spec.t</mask>
-      <mask>*t</mask>
-      <mask>*te</mask>
-      <mask>*test</mask>
-      <mask>*test.</mask>
-      <mask>*test.r</mask>
-      <mask>*</mask>
-      <mask>*.t</mask>
-      <mask>*.</mask>
-      <mask>*ht</mask>
-      <mask>*html</mask>
-      <mask>*controller.rb</mask>
-      <mask>*.json.jbuilder</mask>
-      <mask>*.jbuilder</mask>
-      <mask>*.scss</mask>
-      <mask>*.ts</mask>
-      <mask>*.json</mask>
-      <mask>*.rb</mask>
-      <mask>*.html</mask>
-      <mask>*html.slim</mask>
-      <mask>*test.rb</mask>
-      <mask>*Spec.ts</mask>
-    </recentFileMasks>
   </component>
 </application>
