@@ -9,6 +9,7 @@
       <mapping pattern="kes" type="PLAIN_TEXT" />
       <mapping pattern="gulpfile" type="PLAIN_TEXT" />
       <mapping ext="hprof" type="PLAIN_TEXT" />
+      <mapping ext="sqlite3" type="PLAIN_TEXT" />
       <mapping pattern="StartFromFilter" type="TypeScript" />
     </extensionMap>
   </component>
