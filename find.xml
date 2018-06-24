@@ -17,5 +17,6 @@
     <mask>*.scss</mask>
     <mask>*.html</mask>
     <mask>*test.rb</mask>
+    <mask>*.slim</mask>
   </component>
 </application>
