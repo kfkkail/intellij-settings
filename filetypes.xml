@@ -11,6 +11,7 @@
       <mapping pattern="gulpfile" type="PLAIN_TEXT" />
       <mapping ext="hprof" type="PLAIN_TEXT" />
       <mapping ext="sqlite3" type="PLAIN_TEXT" />
+      <mapping ext="rdb" type="PLAIN_TEXT" />
       <mapping pattern="StartFromFilter" type="TypeScript" />
     </extensionMap>
   </component>
