@@ -1,4 +1,20 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="GotoTest" />
+  <action id="Images.ShowThumbnails" />
+  <action id="MoveTabDown">
+    <keyboard-shortcut first-keystroke="ctrl q" second-keystroke="left" />
+    <keyboard-shortcut first-keystroke="ctrl q" second-keystroke="down" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="ctrl q" second-keystroke="right" />
+  </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
+  <action id="RunDashboard.ShowConfigurations" />
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="ctrl q" second-keystroke="4" />
+  </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl q" second-keystroke="5" />
   </action>
