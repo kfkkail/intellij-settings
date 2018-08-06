@@ -2,4 +2,5 @@
   <option name="myName" value="Default" />
   <inspection_tool class="JSMethodCanBeStatic" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="TsLint" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="TypeScriptUMDGlobal" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
 </profile>
