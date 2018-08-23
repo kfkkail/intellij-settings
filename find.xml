@@ -18,9 +18,9 @@
     <mask>*.slim</mask>
     <mask>*Spec.ts</mask>
     <mask>*test.rb</mask>
-    <mask>*.html</mask>
     <mask>*controller.rb</mask>
     <mask>*.css</mask>
     <mask>*.scss</mask>
+    <mask>*.html</mask>
   </component>
 </application>
