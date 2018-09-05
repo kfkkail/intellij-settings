@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*test.rb" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -15,10 +16,10 @@
     <mask>*.handlebars</mask>
     <mask>*.slim</mask>
     <mask>*Spec.ts</mask>
-    <mask>*test.rb</mask>
     <mask>*controller.rb</mask>
     <mask>*.css</mask>
     <mask>*.scss</mask>
     <mask>*.html</mask>
+    <mask>*test.rb</mask>
   </component>
 </application>
