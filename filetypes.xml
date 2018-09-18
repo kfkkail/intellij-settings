@@ -6,6 +6,7 @@
       <mapping pattern="sd" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="basic_residential_hinge.rb" type="PLAIN_TEXT" />
+      <mapping pattern=".gemrc" type="PLAIN_TEXT" />
       <mapping pattern="kes" type="PLAIN_TEXT" />
       <mapping pattern="product_to_option_group_links" type="PLAIN_TEXT" />
       <mapping pattern="gulpfile" type="PLAIN_TEXT" />
