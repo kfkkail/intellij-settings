@@ -20,9 +20,9 @@
     <mask>*controller.rb</mask>
     <mask>*.css</mask>
     <mask>*test.rb</mask>
-    <mask>*.scss</mask>
     <mask>*.html</mask>
     <mask>*_test.rb</mask>
     <mask>*.json.jbuilder</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
