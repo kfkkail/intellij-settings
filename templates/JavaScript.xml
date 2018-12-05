@@ -1,10 +1,10 @@
 <templateSet group="JavaScript">
-  <template name="describe" value="describe(&quot;$END$&quot;, function () {&#10;});" description="sets up describe" toReformat="false" toShortenFQNames="true">
+  <template name="describe" value="describe(&quot;$END$&quot;, () =&gt; {&#10;});" description="sets up describe" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="it" value="it(&quot;$END$&quot;, function () {&#10;});" description="sets up it for testing" toReformat="false" toShortenFQNames="true">
+  <template name="it" value="it(&quot;$END$&quot;, () =&gt; {&#10;});" description="sets up it for testing" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="TypeScript" value="true" />
     </context>
