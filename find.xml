@@ -24,8 +24,8 @@
     <mask>*.json.jbuilder</mask>
     <mask>*test.tsx</mask>
     <mask>*.test.tsx</mask>
-    <mask>*.scss</mask>
     <mask>*.tsx</mask>
     <mask>*Spec.ts</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
