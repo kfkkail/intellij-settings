@@ -17,7 +17,6 @@
     <mask>*.handlebars</mask>
     <mask>*.slim</mask>
     <mask>*.css</mask>
-    <mask>*test.rb</mask>
     <mask>*_test.rb</mask>
     <mask>*.json.jbuilder</mask>
     <mask>*.test.tsx</mask>
@@ -28,5 +27,6 @@
     <mask>*policy.rb</mask>
     <mask>*.html</mask>
     <mask>*Spec.ts</mask>
+    <mask>*test.rb</mask>
   </component>
 </application>
