@@ -24,9 +24,9 @@
     <mask>*.scss</mask>
     <mask>*controller.rb</mask>
     <mask>*policy.rb</mask>
-    <mask>*test.rb</mask>
     <mask>*.html</mask>
     <mask>*Spec.ts</mask>
     <mask>*test.tsx</mask>
+    <mask>*test.rb</mask>
   </component>
 </application>
