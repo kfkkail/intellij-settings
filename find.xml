@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.tsx" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -20,7 +21,6 @@
     <mask>*_test.rb</mask>
     <mask>*.json.jbuilder</mask>
     <mask>*.test.tsx</mask>
-    <mask>*.tsx</mask>
     <mask>*controller.rb</mask>
     <mask>*policy.rb</mask>
     <mask>*.html</mask>
@@ -29,5 +29,6 @@
     <mask>*test.tsx</mask>
     <mask>test.rb</mask>
     <mask>*.scss</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
