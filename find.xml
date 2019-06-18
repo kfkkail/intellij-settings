@@ -29,7 +29,7 @@
     <mask>*.rb</mask>
     <mask>*.tsx</mask>
     <mask>*.html</mask>
-    <mask>*test.rb</mask>
     <mask>*.scss</mask>
+    <mask>*test.rb</mask>
   </component>
 </application>
