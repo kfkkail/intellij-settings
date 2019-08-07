@@ -19,7 +19,6 @@
     <mask>*_test.rb</mask>
     <mask>*.json.jbuilder</mask>
     <mask>*.test.tsx</mask>
-    <mask>*controller.rb</mask>
     <mask>*policy.rb</mask>
     <mask>*Spec.ts</mask>
     <mask>*test.tsx</mask>
@@ -32,5 +31,6 @@
     <mask>*.scss</mask>
     <mask>*service.ts</mask>
     <mask>*.tsx</mask>
+    <mask>*controller.rb</mask>
   </component>
 </application>
