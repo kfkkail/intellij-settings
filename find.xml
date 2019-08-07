@@ -21,7 +21,6 @@
     <mask>*.test.tsx</mask>
     <mask>*policy.rb</mask>
     <mask>*Spec.ts</mask>
-    <mask>*test.tsx</mask>
     <mask>test.rb</mask>
     <mask>*.ts</mask>
     <mask>*.rb</mask>
@@ -32,5 +31,6 @@
     <mask>*service.ts</mask>
     <mask>*controller.rb</mask>
     <mask>*.tsx</mask>
+    <mask>*test.tsx</mask>
   </component>
 </application>
