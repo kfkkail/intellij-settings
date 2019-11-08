@@ -24,7 +24,6 @@
     <mask>test.rb</mask>
     <mask>*.ts</mask>
     <mask>*.rb</mask>
-    <mask>*.html</mask>
     <mask>*test.rb</mask>
     <mask>*.css</mask>
     <mask>*service.ts</mask>
@@ -32,5 +31,6 @@
     <mask>*test.tsx</mask>
     <mask>*.scss</mask>
     <mask>*.tsx</mask>
+    <mask>*.html</mask>
   </component>
 </application>
