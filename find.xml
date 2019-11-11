@@ -29,8 +29,8 @@
     <mask>*service.ts</mask>
     <mask>*controller.rb</mask>
     <mask>*test.tsx</mask>
-    <mask>*.scss</mask>
     <mask>*.tsx</mask>
     <mask>*.html</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
