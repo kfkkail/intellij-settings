@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="sd" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="basic_residential_hinge.rb" type="PLAIN_TEXT" />
@@ -11,10 +13,9 @@
       <mapping pattern="product_to_option_group_links" type="PLAIN_TEXT" />
       <mapping pattern="gulpfile" type="PLAIN_TEXT" />
       <mapping pattern="DockerFile" type="PLAIN_TEXT" />
-      <mapping ext="sqlite3" type="PLAIN_TEXT" />
-      <mapping ext="gem" type="PLAIN_TEXT" />
-      <mapping ext="hprof" type="PLAIN_TEXT" />
       <mapping ext="rdb" type="PLAIN_TEXT" />
+      <mapping ext="gem" type="PLAIN_TEXT" />
+      <mapping ext="sqlite3" type="PLAIN_TEXT" />
       <mapping pattern="StartFromFilter" type="TypeScript" />
     </extensionMap>
   </component>
