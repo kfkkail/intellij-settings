@@ -32,6 +32,7 @@
     <mask>*.html</mask>
     <mask>*.tsx</mask>
     <mask>*test.rb</mask>
+    <mask>*test.ts</mask>
     <mask>*Spec.ts</mask>
   </component>
 </application>
