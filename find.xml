@@ -1,8 +1,10 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
@@ -18,7 +20,6 @@
     <mask>*.json.jbuilder</mask>
     <mask>*.test.tsx</mask>
     <mask>*policy.rb</mask>
-    <mask>*Spec.ts</mask>
     <mask>test.rb</mask>
     <mask>*.ts</mask>
     <mask>*.rb</mask>
@@ -31,5 +32,6 @@
     <mask>*.html</mask>
     <mask>*.tsx</mask>
     <mask>*test.rb</mask>
+    <mask>*Spec.ts</mask>
   </component>
 </application>
