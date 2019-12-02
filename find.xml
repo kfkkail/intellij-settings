@@ -9,7 +9,7 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
-    <mask>*.tsx</mask>
     <mask>*.scss</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
