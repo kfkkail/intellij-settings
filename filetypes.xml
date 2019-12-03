@@ -11,9 +11,10 @@
       <mapping pattern="product_to_option_group_links" type="PLAIN_TEXT" />
       <mapping pattern="gulpfile" type="PLAIN_TEXT" />
       <mapping pattern="DockerFile" type="PLAIN_TEXT" />
-      <mapping ext="rdb" type="PLAIN_TEXT" />
-      <mapping ext="gem" type="PLAIN_TEXT" />
       <mapping ext="sqlite3" type="PLAIN_TEXT" />
+      <mapping ext="gem" type="PLAIN_TEXT" />
+      <mapping ext="hprof" type="PLAIN_TEXT" />
+      <mapping ext="rdb" type="PLAIN_TEXT" />
       <mapping pattern="StartFromFilter" type="TypeScript" />
     </extensionMap>
   </component>
