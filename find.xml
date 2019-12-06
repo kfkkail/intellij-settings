@@ -30,8 +30,8 @@
     <mask>*test.tsx</mask>
     <mask>*Reducer.ts</mask>
     <mask>*.html</mask>
-    <mask>*.tsx</mask>
     <mask>*test.rb</mask>
     <mask>*.scss</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
