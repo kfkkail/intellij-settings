@@ -7,6 +7,7 @@
       <mapping pattern=".gemrc" type="PLAIN_TEXT" />
       <mapping pattern="kes" type="PLAIN_TEXT" />
       <mapping pattern="asdf" type="PLAIN_TEXT" />
+      <mapping pattern="customer_mailer" type="PLAIN_TEXT" />
       <mapping pattern="JenkinsFile" type="PLAIN_TEXT" />
       <mapping pattern="product_to_option_group_links" type="PLAIN_TEXT" />
       <mapping pattern="gulpfile" type="PLAIN_TEXT" />
