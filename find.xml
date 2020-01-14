@@ -20,7 +20,6 @@
     <mask>*.json.jbuilder</mask>
     <mask>*.test.tsx</mask>
     <mask>*policy.rb</mask>
-    <mask>*Spec.ts</mask>
     <mask>test.rb</mask>
     <mask>*.ts</mask>
     <mask>*.rb</mask>
@@ -33,5 +32,6 @@
     <mask>*.tsx</mask>
     <mask>*.html</mask>
     <mask>*.scss</mask>
+    <mask>*Spec.ts</mask>
   </component>
 </application>
