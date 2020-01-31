@@ -30,8 +30,8 @@
     <mask>*.tsx</mask>
     <mask>*Spec.ts</mask>
     <mask>*test.tsx</mask>
-    <mask>*.html</mask>
     <mask>*.scss</mask>
     <mask>*test.rb</mask>
+    <mask>*.html</mask>
   </component>
 </application>
