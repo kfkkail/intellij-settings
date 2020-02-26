@@ -374,6 +374,23 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/annotate-2.7.2/bin" />
       </excluded>
     </library>
+    <library name="annotate (v2.7.5, rbenv: 2.3.1, rsf) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/gemsets/rsf/gems/annotate-2.7.5/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/gemsets/rsf/gems/annotate-2.7.5/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/gemsets/rsf/gems/annotate-2.7.5/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/gemsets/rsf/gems/annotate-2.7.5/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/gemsets/rsf/gems/annotate-2.7.5/bin" />
+      </excluded>
+    </library>
     <library name="ansi (v1.5.0, rbenv: 2.3.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3034,6 +3051,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/parallel-1.12.1/lib" />
       </SOURCES>
     </library>
+    <library name="parallel (v1.19.1, rbenv: 2.3.1, rsf) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/gemsets/rsf/gems/parallel-1.19.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/gemsets/rsf/gems/parallel-1.19.1/lib" />
+      </SOURCES>
+    </library>
     <library name="parallel_tests (v2.21.1, rbenv: 2.3.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4689,6 +4718,23 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/unicode-display_width-1.6.0/data" />
+      </excluded>
+    </library>
+    <library name="unicode-display_width (v1.6.1, rbenv: 2.3.1, rsf) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/gemsets/rsf/gems/unicode-display_width-1.6.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/gemsets/rsf/gems/unicode-display_width-1.6.1/data" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/gemsets/rsf/gems/unicode-display_width-1.6.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/gemsets/rsf/gems/unicode-display_width-1.6.1/data" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/gemsets/rsf/gems/unicode-display_width-1.6.1/data" />
       </excluded>
     </library>
     <library name="webmock (v3.0.1, rbenv: 2.3.1) [gem]" type="rubylib">
